@@ -1,0 +1,148 @@
+{
+  "test": [
+    {
+      "role": "user",
+      "content": "Voglio andare da Milano a Parigi in treno con 20kg di bagaglio"
+    },
+    {
+      "role": "assistant",
+      "content": "Riepilogo viaggio:\n- Origine: Milano\n- Destinazione: Parigi\n- Mezzo: train\n- Bagaglio: 20 kg\n- CO2 totale stimata: 12.4 kg"
+    }
+  ],
+  "6vfn1mxjimm": [
+    {
+      "role": "user",
+      "content": "milano londra in treno"
+    },
+    {
+      "role": "assistant",
+      "content": "Per procedere ho bisogno di: origine, destinazione, peso del bagaglio. Puoi fornirmeli?"
+    },
+    {
+      "role": "user",
+      "content": "milano londra bagaglio 30kg"
+    },
+    {
+      "role": "assistant",
+      "content": "Per procedere ho bisogno di: origine, destinazione, mezzo di trasporto. Puoi fornirmeli?"
+    },
+    {
+      "role": "user",
+      "content": "milano parigi treno 20kg bagaglio"
+    },
+    {
+      "role": "assistant",
+      "content": "Per procedere ho bisogno di: origine, destinazione. Puoi fornirmeli?"
+    },
+    {
+      "role": "user",
+      "content": "ji"
+    },
+    {
+      "role": "assistant",
+      "content": "Per procedere ho bisogno di: origine, destinazione, mezzo di trasporto, peso del bagaglio. Puoi fornirmeli?"
+    },
+    {
+      "role": "user",
+      "content": "mmmm"
+    },
+    {
+      "role": "assistant",
+      "content": "Per procedere ho bisogno di: origine, destinazione, mezzo di trasporto, peso del bagaglio. Puoi fornirmeli?"
+    },
+    {
+      "role": "user",
+      "content": "milano parigi treno 20kg bagaglio"
+    },
+    {
+      "role": "assistant",
+      "content": "Per procedere ho bisogno di: origine, destinazione. Puoi fornirmeli?"
+    },
+    {
+      "role": "user",
+      "content": "milano parigi 20kg aereo"
+    },
+    {
+      "role": "assistant",
+      "content": "Ho calcolato la stima delle emissioni.\n- Origine: Milano\n- Destinazione: Parigi\n- Mezzo: plane\n- Bagaglio: 20 kg\n- CO2 totale stimata: 75.4 kg\nSe vuoi, posso confrontare mezzi alternativi."
+    },
+    {
+      "role": "user",
+      "content": "milano londra 20kg treno"
+    },
+    {
+      "role": "assistant",
+      "content": "Ho calcolato la stima delle emissioni.\n- Origine: Milano\n- Destinazione: Londra\n- Mezzo: train\n- Bagaglio: 20 kg\n- CO2 totale stimata: 12.4 kg\nSe vuoi, posso confrontare mezzi alternativi."
+    }
+  ],
+  "new1": [
+    {
+      "role": "user",
+      "content": "milano parigi treno 20kg bagaglio"
+    },
+    {
+      "role": "assistant",
+      "content": "Per procedere ho bisogno di: origine, destinazione. Puoi fornirmeli?"
+    }
+  ],
+  "new2": [
+    {
+      "role": "user",
+      "content": "milano parigi treno 20kg bagaglio"
+    },
+    {
+      "role": "assistant",
+      "content": "Ho calcolato la stima delle emissioni.\n- Origine: Milano\n- Destinazione: Parigi\n- Mezzo: train\n- Bagaglio: 20 kg\n- CO2 totale stimata: 12.4 kg\nSe vuoi, posso confrontare mezzi alternativi."
+    }
+  ],
+  "is5pmpj977i": [
+    {
+      "role": "user",
+      "content": "Milano Londra 20kg treno"
+    },
+    {
+      "role": "assistant",
+      "content": "Ho calcolato la stima delle emissioni.\n- Origine: Milano\n- Destinazione: Londra\n- Mezzo: train\n- Bagaglio: 20 kg\n- CO2 totale stimata: 12.4 kg\nSe vuoi, posso confrontare mezzi alternativi."
+    },
+    {
+      "role": "user",
+      "content": "Amsterdam Vienna 20kg aereo"
+    },
+    {
+      "role": "assistant",
+      "content": "Ho calcolato la stima delle emissioni.\n- Origine: Amsterdam\n- Destinazione: Vienna\n- Mezzo: plane\n- Bagaglio: 20 kg\n- CO2 totale stimata: 120.4 kg\nSe vuoi, posso confrontare mezzi alternativi."
+    },
+    {
+      "role": "user",
+      "content": "Roma Valencia 20kg auto"
+    },
+    {
+      "role": "assistant",
+      "content": "Ho calcolato la stima delle emissioni.\n- Origine: Roma\n- Destinazione: Valencia\n- Mezzo: car\n- Bagaglio: 20 kg\n- CO2 totale stimata: 65.2 kg\nSe vuoi, posso confrontare mezzi alternativi."
+    },
+    {
+      "role": "user",
+      "content": "aereo"
+    },
+    {
+      "role": "assistant",
+      "content": "Ho calcolato la stima delle emissioni.\n- Origine: Milano\n- Destinazione: Londra\n- Mezzo: plane\n- Bagaglio: 20 kg\n- CO2 totale stimata: 75.4 kg\nSe vuoi, posso confrontare mezzi alternativi."
+    },
+    {
+      "role": "user",
+      "content": "Roma Valencia 20kg plane"
+    },
+    {
+      "role": "assistant",
+      "content": "Ho calcolato la stima delle emissioni.\n- Origine: Roma\n- Destinazione: Valencia\n- Mezzo: plane\n- Bagaglio: 20 kg\n- CO2 totale stimata: 135.4 kg\nSe vuoi, posso confrontare mezzi alternativi."
+    },
+    {
+      "role": "user",
+      "content": "Milano Valencia 20kg plane"
+    },
+    {
+      "role": "assistant",
+      "content": "Ho calcolato la stima delle emissioni.\n- Origine: Milano\n- Destinazione: Valencia\n- Mezzo: plane\n- Bagaglio: 20 kg\n- CO2 totale stimata: 105.4 kg\nSe vuoi, posso confrontare mezzi alternativi."
+    }
+  ]
+}
